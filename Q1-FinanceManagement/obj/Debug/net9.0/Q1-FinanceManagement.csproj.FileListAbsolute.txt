@@ -1,0 +1,4 @@
+C:\Users\BABA\dcit318-assignment3-11119773\Q1-FinanceManagement\obj\Debug\net9.0\Q1-FinanceManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BABA\dcit318-assignment3-11119773\Q1-FinanceManagement\obj\Debug\net9.0\Q1-FinanceManagement.AssemblyInfoInputs.cache
+C:\Users\BABA\dcit318-assignment3-11119773\Q1-FinanceManagement\obj\Debug\net9.0\Q1-FinanceManagement.AssemblyInfo.cs
+C:\Users\BABA\dcit318-assignment3-11119773\Q1-FinanceManagement\obj\Debug\net9.0\Q1-FinanceManagement.csproj.CoreCompileInputs.cache
